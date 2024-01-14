@@ -1,0 +1,113 @@
+.topnav{
+        
+        font-size:xx-large;
+        font-weight: bolder;
+}
+.port{
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: xx-large;
+    color: springgreen;
+}
+.top{
+    font-weight: bolder;
+    color: rgb(2, 167, 2);
+}
+.sty{
+    color: blue;
+}
+.uu{
+    color: chocolate;
+}
+.tt{
+    color: #00f7ff;
+}
+.img{
+    opacity:1px;
+}
+
+.text{
+    text-align: center;
+}
+.Projects{
+    display: flex;
+    width: 100%;
+    height: 350px;
+    background-color: gray;
+}
+.bb{
+    color: rgb(160, 95, 154);
+}
+.zz{
+    color: rgb(231, 137, 14);
+}
+.price{
+    width: 100%;
+    height: 300px;
+    background-color: burlywood;
+    text-align: center;
+}
+.payment1{
+    font-size: xx-large;
+    font-weight: bold;
+    color: aqua;
+}
+.payment2{
+    font-weight: 1000;
+}
+.payment3{
+    font-weight: 1000;
+}
+.payment4{
+    font-weight: 1000;
+}
+.payment5{
+    font-weight: 1000;
+}
+.payment6{
+        font-size: xx-large;
+}
+.head{
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+}
+.rel{
+    background-color: brown;
+    width: 16%;
+}
+.mem{
+    font-weight: 700;
+}
+.Contact{
+    text-align: center;
+}
+.tex{
+    background-color:hwb(271 3% 5%)
+
+}
+.footer{
+    font-weight: 800;
+    background-color: aqua;
+    text-align:center;
+    height: 100px;
+    padding-top: 16px;   
+}
+/* MEDIA QUERY */
+@media screen and (max-width: 600px){
+    .body{
+        background-color: aliceblue;
+    }
+}
+@media screen and (max-width:900px){
+    .body{
+        background-color: aquamarine;
+    }
+
+}
+@media screen and (max-width:1299px){
+    .body{
+        background-color: cadetblue;
+    }
+
+}
